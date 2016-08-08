@@ -1,0 +1,33 @@
+_repo: You-Can-Search-Me_12607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobart, George V. (George Vere)
+    aliases:
+    - McHugh, Hugh
+    - Hobart, George Vere
+    - Lott, Noah
+    - Hobart, G. V. (George Vere)
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4454'
+    url: http://www.gutenberg.org/2009/agents/4454
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: John Henry gets a partner -- John Henry gets a Sufficiency -- John
+  Henry gets busy -- John Henry gets a shock -- John Henry gets excited -- John Henry
+  gets a setback -- John Henry gets a surprise.
+title: You Can Search Me
+url: http://www.gutenberg.org/ebooks/12607
