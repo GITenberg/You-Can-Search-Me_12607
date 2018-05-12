@@ -1,5 +1,8 @@
 _repo: You-Can-Search-Me_12607
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hobart, George V. (George Vere)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '4454'
     url: http://www.gutenberg.org/2009/agents/4454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12607#You-Can-Search-Me
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
